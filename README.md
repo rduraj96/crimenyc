@@ -1,7 +1,7 @@
 # Visualization of Crime in NYC (CSC59978 Final Project)
 
 ## Link to Demo Video
-- Link: 
+- Link: https://www.youtube.com/watch?v=hTsRveSI8xo
 
 ## Hosted Site with Embedded Visualizations
  - Link: https://rduraj96.github.io/crimenyc/
