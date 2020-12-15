@@ -12,4 +12,4 @@
  - To run our visualizations locally, you need to download the two packaged workbook files (.twbx) that are linked above.
  - Since they are large files, they are hosted on google drive (github has a 25mb cap) with download permissions.
  - Then with Tableau, you can open both of the packaged workbook files (both .twbx files) and our dataset and visualizations will be automatically loaded which you can then interact with.
- - It will take quite a while to initially open the workbook files since tableau loads the dataset and then renders all the visualizations.
+ - It will take quite a while to initially open the workbook files (over 30 minutes) since tableau loads the dataset and then renders all the visualizations.
