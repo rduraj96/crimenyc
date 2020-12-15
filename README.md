@@ -1,5 +1,8 @@
 # Visualization of Crime in NYC (CSC59978 Final Project)
 
+## Link to Demo Video
+- Link: 
+
 ## Hosted Site with Embedded Visualizations
  - Link: https://rduraj96.github.io/crimenyc/
  - This is the easiest way to interact with our visualizations without the need for Tableau. It's simply an HTML file that's hosted on Github Pages with our visualizations embedded. 
